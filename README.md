@@ -35,4 +35,3 @@ PlayerPrefs, префикс `PP12.Postal.v1.` (открытые уровни, р
 ## Не входят в репозиторий
 Library, Temp, Logs, obj, UserSettings, Build (см. .gitignore).
 
-Версия: 1.0.0 · Автор: [ФИО обучающегося], группа [шифр группы]
